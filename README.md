@@ -1,2 +1,3 @@
 # hello-world
-My first repo
+
+Hi, I'm a student. I study programming. I like C.
